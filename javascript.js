@@ -198,11 +198,4 @@ var loc = document.title
     }
 
 
-items.sort(function (a, b) {
-    return a.type.localeCompare(b.name);
-});
-items.sort()
-console.log(items.sort)
-
-
     
